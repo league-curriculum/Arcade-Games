@@ -4,9 +4,10 @@ title: Apple Collector Series
 nav_order: 2
 ---
 
-# Dodge Series!
+# Apple Collector Series!
 
-In these tutorials, you'll create a simple dodge game where a player avoids falling objects. Each tutorial will increase in difficulty. Build one at a time to improve your skills!
+In these tutorials, you'll create a simple game where a player collects apples appearing at random locations. 
+Each tutorial will increase in difficulty. Build one at a time to improve your skills!
 
 ## Prerequisites
 
