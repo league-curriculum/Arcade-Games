@@ -1,0 +1,54 @@
+# Site settings
+title: Arcade Games
+description: Build arcade games with MakeCode Arcade and the LEAGUE
+theme: just-the-docs
+
+# URL settings - update YOUR-REPO-NAME to your actual repo name
+url: https://league-curriculum.github.io
+baseurl: /Arcade-Games  # Change this to match your repo name
+
+# Logo - using the League logo like other curriculum sites
+logo: "https://images.jointheleague.org/logos/logo4.png"
+
+# Search
+search_enabled: true
+
+# Aux links (top right navigation)
+aux_links:
+  "The LEAGUE":
+    - "https://jointheleague.org"
+  "GitHub Repo":
+    - "https://github.com/league-curriculum/Arcade-Games"
+
+aux_links_new_tab: true
+
+# Footer "Edit this page on GitHub" link
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/league-curriculum/Arcade-Games"
+gh_edit_branch: "jekyl"  # Note: using 'jekyl' to match existing convention
+gh_edit_view_mode: "tree"
+
+# Color scheme (optional - can be "light" or "dark")
+color_scheme: light
+
+# Heading anchor links
+heading_anchors: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer content
+footer_content: 'This site uses <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.'
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - README.md
