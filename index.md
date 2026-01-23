@@ -13,6 +13,8 @@ Welcome to the LEAGUE's Arcade Games curriculum! Learn to build games using Make
 
 MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for dedicated hardware. Students will learn programming concepts while building fun, playable games.
 
+You will play games like this [Apple Collector](https://makecode.com/_1FqFgi1k0fea)
+
 ## What You'll Learn
 
 - **Game Design Basics** - Learn the fundamentals of game mechanics, sprites, and levels
