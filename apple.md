@@ -7,7 +7,7 @@ nav_order: 2
 # Apple Collector Series!
 Welcome to the Apple Collector Series! 
 
-![AppleGame](/images/apple.png)
+![AppleGame](images/apple.png)
 
 In these tutorials, you'll create a simple game where a player collects apples appearing at random locations. 
 Each tutorial will increase in difficulty. Build one at a time to improve your skills!
