@@ -26,11 +26,7 @@ You will play games like this [Apple Collector](https://makecode.com/_DmdVbYRXfC
 
 1. Visit [MakeCode Arcade](https://arcade.makecode.com/)
 2. Create a free account to save your projects
-3. Follow along with our tutorials 
-
-## Tutorials
-
-- [Your First Game](https://arcade.makecode.com/#tutorial:https://arcade.makecode.com/S95085-52403-86992-51892) - Create a simple dodge game
+3. Follow along with our tutorials. Start with our [Apple Collector Series](apple.md)
 
 ## Student Projects
 
