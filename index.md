@@ -34,5 +34,5 @@ Check out games created by LEAGUE students!
 
 [Fishing Game](https://arcade.makecode.com/94573-04375-38930-86325)
 
-[Insert Student Games Here]
+
 
