@@ -29,8 +29,8 @@ Each tutorial will increase in difficulty. Build one at a time to improve your s
 
 ## Tutorial 3
 
-[Play The Game](https://makecode.com/_Ei8KjzCgtCT2)
-[Intermediate Tutorial](https://arcade.makecode.com/#tutorial:https://arcade.makecode.com/S89143-39531-48088-57720)
+- [Play The Game](https://makecode.com/_Ei8KjzCgtCT2)
+- [Advanced Tutorial](https://arcade.makecode.com/#tutorial:https://arcade.makecode.com/S89143-39531-48088-57720)
 
 ## Challenge
 
