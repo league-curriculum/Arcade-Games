@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dodge Collector Series
+title: Dodge Game Series
 nav_order: 3
 ---
 

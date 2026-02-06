@@ -32,5 +32,8 @@ You will play games like this [Apple Collector](https://makecode.com/_DmdVbYRXfC
 
 Check out games created by LEAGUE students!
 
-[Insert Student Games Here]
+[Fishing Game](https://arcade.makecode.com/94573-04375-38930-86325) <br>
+[Platformer](https://arcade.makecode.com/S54087-16948-81797-31503)
+
+
 
