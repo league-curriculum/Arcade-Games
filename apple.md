@@ -35,7 +35,7 @@ Each tutorial will increase in difficulty. Build one at a time to improve your s
 ## Challenge
 
 Can you modify the game to:
-- Make objects fall faster over time?
+- Make the apples dissapear if you don't grab them?
 - Add different types of objects worth different points?
 - Add power-ups?
 
