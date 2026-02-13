@@ -19,7 +19,7 @@ Each tutorial will increase in difficulty. Build one at a time to improve your s
 
 ## Tutorial 1
 - [Play The Game](https://arcade.makecode.com/S98361-63675-28097-67445)
-- [Beginner Tutorial](https://arcade.makecode.com/#tutorial:github:ruizosvaldo/league_spaceinvaders/tutorial)
+- [Beginner Tutorial](https://arcade.makecode.com/#tutorial:github:ruizosvaldo/league_spaceinvaders/tutorial-beginner)
 
 
 ## Tutorial 2
