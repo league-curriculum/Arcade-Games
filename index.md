@@ -30,10 +30,13 @@ You will play games like this [Apple Collector](https://makecode.com/_DmdVbYRXfC
 
 ## Student Projects
 
-Check out games created by LEAGUE students!
+### Check out games created by LEAGUE students!
+From out Carmel Valley Students:
+- [Fishing Game](https://arcade.makecode.com/94573-04375-38930-86325) <br>
+- [Platformer](https://arcade.makecode.com/S54087-16948-81797-31503) <br>
 
-[Fishing Game](https://arcade.makecode.com/94573-04375-38930-86325) <br>
-[Platformer](https://arcade.makecode.com/S54087-16948-81797-31503)
+From out School of the Madeleine Students:
+- [League Invaders](https://arcade.makecode.com/85941-39125-86605-73284)
 
 
 
