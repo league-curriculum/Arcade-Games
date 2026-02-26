@@ -25,12 +25,12 @@ Each tutorial increases in difficulty, helping you build stronger game design an
 ## Tutorial 2
 
 - [Play The Game](https://makecode.com/_WMuJe1959U3k)
-- [Intermediate Tutorial](https://arcade.makecode.com/#tutorial:https://arcade.makecode.com/S45786-85834-43815-80537)
+- [In Progress]()
 
 ## Tutorial 3
 
-- [Play The Game](LINK_GOES_HERE)
-- [Advanced Tutorial](TUTORIAL_LINK_GOES_HERE)
+- [Play The Game](https://arcade.makecode.com/S31224-22002-76433-73589)
+- [Advanced Tutorial](https://arcade.makecode.com/#tutorial:github:ruizosvaldo/league_arcade_beginner/tutorial_advanced)
 
 ## Challenge
 
